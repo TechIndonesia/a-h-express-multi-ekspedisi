@@ -173,4 +173,4 @@ export const DELIVERY_TYPES: DeliveryType[] = [
 ];
 
 // Nomor WhatsApp admin (format internasional tanpa +)
-export const ADMIN_WHATSAPP = "6281234567890";
+export const ADMIN_WHATSAPP = "6285366573886";
